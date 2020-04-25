@@ -1,0 +1,117 @@
+ .title{
+    background-image: url("https://wallpapercave.com/wp/XqRBXyO.jpg");
+    font-family:"sans-serif";
+    text-align: center;
+    color: hsl(240,50%,50%);
+    font-size: 70px;
+    padding-bottom: 50px; 
+    margin:  -8px;
+}
+/*    #name is a id
+      .name is a class
+*/   
+
+.globe1{
+  margin-left:35%;
+  display:flex;
+  justify-content:flex-start;
+}
+.globe2{
+  margin-left:35%;
+  display:flex;
+  justify-content:flex-start;
+/*   width:650px; */
+}
+.flag{
+  width:300px;
+  height:150px;
+  margin-left:43%;
+  object-fit: cover;
+}
+ul{
+  list-style-type:none;
+  margin:0px;
+  padding:0px;
+  overflow:hidden;
+  background-color:#333;
+  margin:-8px;
+}
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  position:relative;
+  left:20px;
+  text-align: center;
+  padding: 10px 16px;
+  text-decoration: none;
+}
+.dropbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+.left {
+  position: relative;
+  display: inline-block;
+  float: left;
+  width: 5%;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.left:hover .dropdown-content {display: block;}
+
+.left:hover .dropbtn {background-color: #3e8e41;}
+
+
+
+
+li a:hover {
+  background-color: #333;
+  animation-name: nav-menu;
+  animation-duration:500mm;
+  animation-fill-mode:forwards;
+}
+@keyframes nav-menu{
+  100% {
+    background-color:green;
+  }
+}
+.sex{
+  background-color:white;
+  color: black;
+}
+p{
+  color:black;
+}
+h2{
+  color: hsl(240, 50%, 50%);
+  background-color: hsl(160, 50%, 60%);
+}
+body{
+  
+  background-color: hsl(60, 100%, 85%);
+}       
