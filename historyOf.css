@@ -15,11 +15,15 @@
   margin-left:35%;
   display:flex;
   justify-content:flex-start;
+  height:auto;
+  width:auto;
 }
 .globe2{
   margin-left:35%;
   display:flex;
   justify-content:flex-start;
+  height:auto;
+  width:auto;
 /*   width:650px; */
 }
 .flag{
