@@ -19,11 +19,7 @@
 #jumpToTop:hover{
   opacity:0.9;
 }
-@media screen and (max-width: 600px) {
-  body {
-    background-color: olive;
-  }
-}
+
 
 .globe1{
   margin-left:35%;
@@ -131,4 +127,8 @@ body{
   
   background-color: hsl(60, 100%, 85%);
 }       
-    
+@media screen and (max-width: 600px) {
+  body {
+    background-color: olive;
+  }
+}
