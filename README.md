@@ -1,6 +1,8 @@
 # HistoryOf
 
-This is a website using html, css, and js.
+This is a website using html, css, and js. 
+
+https://juniorh28.github.io/HistoryOf/
 
 Purpoes: to test my abilities, to create a live environment for my articles where others may read and learn.
  
