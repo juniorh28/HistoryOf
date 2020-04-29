@@ -10,3 +10,4 @@ Need to tweak:
 
 1. must work on making the site mobile-friendly 
 2. separating the content into mutiple pages. Done!
+3. make the article table a part of the  naviagation tab
