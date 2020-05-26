@@ -127,9 +127,9 @@ body{
   
   background-color: hsl(60, 100%, 85%);
 }     
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 420px) {
  .globe1 .globe2{
- width:325px;}
+ width:300px;}
  body {
     background-color: lightblue;
   }
