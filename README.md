@@ -8,6 +8,6 @@ Purpoes: to test my abilities, to create a live environment for my articles wher
  
 Need to tweak: 
 
-1. must work on making the site mobile-friendly 
+1. must work on making the site mobile-friendly Done!
 2. separating the content into mutiple pages. Done!
 3. make the article table a part of the  naviagation tab
